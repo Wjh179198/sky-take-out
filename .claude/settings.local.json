@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mvn *)",
+      "PowerShell($env:JAVA_HOME)",
+      "PowerShell(java *)",
+      "WebSearch"
+    ]
+  }
+}
