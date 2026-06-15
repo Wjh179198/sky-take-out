@@ -4,7 +4,15 @@
       "Bash(mvn *)",
       "PowerShell($env:JAVA_HOME)",
       "PowerShell(java *)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(Get-ChildItem -Path \"D:\\\\JavaWebCode\\\\sky-take-out\" -Directory)",
+      "Bash(Select-Object Name)",
+      "Bash(Select-Object -Last 80)",
+      "PowerShell(mvn test *)",
+      "PowerShell(mvn *)",
+      "Bash(git rm *)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
     ]
   }
 }
