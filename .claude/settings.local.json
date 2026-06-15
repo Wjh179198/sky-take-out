@@ -12,7 +12,13 @@
       "PowerShell(mvn *)",
       "Bash(git rm *)",
       "Bash(git commit *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git reset *)",
+      "Bash(Select-String \"yml\")",
+      "Bash(git ls-tree *)",
+      "Bash(gh repo *)",
+      "PowerShell(gh repo *)",
+      "PowerShell(gh auth *)"
     ]
   }
 }
